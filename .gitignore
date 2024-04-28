@@ -2,3 +2,6 @@
 .venv/
 /model/
 /trainer_cache/
+/paper/
+/presentation/
+*.gitignore
