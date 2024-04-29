@@ -1,0 +1,5 @@
+Input,Classification,Correctness
+This is a disaster,This text is not related to disaster,Correct Prediction
+This is a disaster,This text is not related to disaster,In-Correct Prediction
+,,Correct Prediction
+This is not a disaster,This text is not related to disaster,Correct Prediction
