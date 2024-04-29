@@ -2,6 +2,14 @@
 
 ## Pre-requisities
 
+To keep your python installation and dependencies intact, please use python virtual environment (venv).
+```
+python3 -m venv env
+source env/bin/activate
+```
+
+Then, install the required packages
+
 Python packages:
 
 - Install the required packages by installing all the packages listed in [requirement.txt](requirement.txt) file or by executing below command
@@ -26,3 +34,12 @@ Follow below steps to train and test the model
 
 6. To view the performanc results of the model that was trained and tested, navigate to model performance and select the metric and model, then click view results
 ![model performance](gui_screenshots/model_performance.png)
+
+
+## Environment Cleanup
+
+If you no longer need the virtual environment, exit venv with the following command.
+```
+deactivate
+```
+Then simply delete the `env` folder that was created.
