@@ -1,0 +1,16 @@
+scikit-learn
+Pandas
+numPy
+nltk
+matplotlib
+gradio
+transformers
+tensorflow
+keras
+Keras-Preprocessing
+torch
+datasets
+evaluate
+accelerate
+emoji==0.6.0
+torch torchvision torchaudio
