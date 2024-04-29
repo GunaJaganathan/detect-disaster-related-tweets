@@ -2,3 +2,6 @@
 .venv/
 /model/
 *.csv
+/trainer_cache/
+/presentation/
+/paper/
